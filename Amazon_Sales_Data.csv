@@ -1,0 +1,301 @@
+Order ID,Order Date,Customer ID,Region,Category,Sub-Category,Quantity,Unit Price,Discount,Total Sales,Profit
+ORD0001,01-05-2024,Customer_198,North,Clothing,Jacket,3,1488,15,3794.4,501.99
+ORD0002,23-03-2023,Customer_908,West,Books,Magazine,4,946,0,3784,617.02
+ORD0003,24-06-2023,Customer_103,North,Home Decor,Lamp,2,3465,15,5890.5,841.95
+ORD0004,20-10-2023,Customer_454,West,Home Decor,Lamp,3,3265,5,9305.25,2316.71
+ORD0005,22-05-2024,Customer_996,North,Books,Comics,2,2416,15,4107.2,877.1
+ORD0006,19-07-2023,Customer_362,North,Books,Textbook,3,1388,15,3539.4,777.13
+ORD0007,07-12-2023,Customer_379,East,Books,Novel,1,1461,20,1168.8,137.33
+ORD0008,24-02-2024,Customer_203,South,Home Decor,Curtain,1,3891,10,3501.9,468.93
+ORD0009,17-04-2023,Customer_686,North,Books,Novel,5,2273,5,10796.75,1963.23
+ORD0010,06-03-2024,Customer_468,East,Clothing,Jacket,3,1495,0,4485,499.05
+ORD0011,02-02-2023,Customer_200,South,Home Decor,Sofa,2,3533,15,6006.1,370.65
+ORD0012,31-03-2024,Customer_820,North,Sports,Tennis Racket,1,1406,10,1265.4,201.11
+ORD0013,08-05-2023,Customer_197,East,Books,Textbook,1,3655,5,3472.25,323.92
+ORD0014,22-06-2023,Customer_664,West,Clothing,Jeans,5,4539,20,18156,1635.42
+ORD0015,12-12-2023,Customer_895,South,Home Decor,Sofa,5,2952,20,11808,1113.73
+ORD0016,19-06-2023,Customer_558,West,Clothing,Shirt,3,773,0,2319,193.85
+ORD0017,15-09-2023,Customer_651,East,Clothing,Shirt,3,1772,15,4518.6,489.23
+ORD0018,22-03-2023,Customer_521,North,Clothing,Shirt,4,4894,20,15660.8,2228.24
+ORD0019,14-04-2024,Customer_694,North,Electronics,Tablet,3,1984,0,5952,368.9
+ORD0020,13-07-2023,Customer_370,East,Books,Textbook,3,4820,5,13737,1688.05
+ORD0021,03-05-2023,Customer_716,South,Electronics,Smartphone,4,4153,5,15781.4,1007.17
+ORD0022,25-03-2024,Customer_528,North,Sports,Tennis Racket,5,1164,10,5238,985.71
+ORD0023,08-06-2024,Customer_904,South,Electronics,Headphones,1,2375,0,2375,424.38
+ORD0024,02-06-2023,Customer_570,East,Sports,Yoga Mat,5,2319,15,9855.75,1207.9
+ORD0025,24-09-2023,Customer_926,East,Sports,Tennis Racket,3,3213,5,9157.05,2180.17
+ORD0026,05-09-2023,Customer_280,North,Sports,Football,3,3966,0,11898,1962.19
+ORD0027,16-05-2024,Customer_763,South,Sports,Tennis Racket,4,4607,0,18428,2710.59
+ORD0028,11-11-2023,Customer_106,South,Clothing,Dress,1,1929,15,1639.65,334.26
+ORD0029,26-02-2023,Customer_351,West,Home Decor,Curtain,1,1002,10,901.8,83.81
+ORD0030,30-05-2024,Customer_211,South,Books,Magazine,2,1102,0,2204,507.54
+ORD0031,02-03-2024,Customer_100,West,Books,Magazine,1,2136,0,2136,461.67
+ORD0032,01-07-2023,Customer_574,West,Books,Comics,4,4953,0,19812,995.81
+ORD0033,17-01-2023,Customer_400,West,Clothing,Dress,2,4600,15,7820,1636.79
+ORD0034,21-05-2023,Customer_803,East,Clothing,Jeans,5,3596,5,17081,3753.33
+ORD0035,23-03-2024,Customer_755,South,Sports,Cricket Bat,5,4212,10,18954,2935.83
+ORD0036,22-08-2024,Customer_762,West,Sports,Tennis Racket,4,3851,10,13863.6,932.27
+ORD0037,22-03-2023,Customer_172,East,Books,Textbook,5,2048,15,8704,941.25
+ORD0038,31-01-2024,Customer_618,West,Home Decor,Curtain,4,1019,5,3872.2,378.1
+ORD0039,10-01-2023,Customer_230,North,Electronics,Headphones,2,3730,5,7087,1058.41
+ORD0040,10-12-2023,Customer_165,West,Books,Textbook,1,4775,5,4536.25,762.47
+ORD0041,11-01-2024,Customer_733,South,Electronics,Laptop,1,4020,15,3417,262.26
+ORD0042,21-08-2023,Customer_524,West,Clothing,Jeans,2,4580,10,8244,1160.99
+ORD0043,07-09-2023,Customer_690,North,Books,Comics,4,4186,5,15906.8,3190.06
+ORD0044,18-03-2024,Customer_439,North,Sports,Yoga Mat,3,3829,20,9189.6,1997.33
+ORD0045,17-05-2023,Customer_819,North,Clothing,Jeans,3,503,5,1433.55,170.01
+ORD0046,19-05-2024,Customer_207,North,Sports,Yoga Mat,2,682,5,1295.8,315.81
+ORD0047,06-02-2024,Customer_851,East,Books,Textbook,5,2319,20,9276,2047.88
+ORD0048,16-03-2023,Customer_111,West,Electronics,Tablet,1,788,15,669.8,118.25
+ORD0049,12-08-2023,Customer_321,East,Books,Magazine,1,3364,20,2691.2,444.86
+ORD0050,30-01-2023,Customer_667,North,Electronics,Smartphone,5,4771,10,21469.5,5147.76
+ORD0051,09-01-2023,Customer_845,West,Electronics,Smartphone,4,2930,20,9376,1226.39
+ORD0052,07-04-2024,Customer_398,South,Home Decor,Lamp,1,3803,5,3612.85,199.8
+ORD0053,20-08-2024,Customer_283,East,Sports,Tennis Racket,2,4948,0,9896,1593.3
+ORD0054,05-01-2024,Customer_902,West,Sports,Yoga Mat,2,897,15,1524.9,254.37
+ORD0055,18-11-2023,Customer_882,West,Books,Novel,1,3184,0,3184,787.2
+ORD0056,19-02-2023,Customer_999,South,Electronics,Smartphone,2,3954,0,7908,1620.74
+ORD0057,27-01-2023,Customer_215,North,Books,Magazine,1,2333,20,1866.4,284.99
+ORD0058,20-04-2023,Customer_839,South,Electronics,Smartphone,4,4902,20,15686.4,3825.86
+ORD0059,06-07-2024,Customer_876,East,Clothing,Jeans,2,2294,5,4358.6,731.33
+ORD0060,04-07-2024,Customer_271,South,Clothing,Dress,3,2094,5,5967.9,867.98
+ORD0061,16-03-2023,Customer_928,West,Home Decor,Sofa,3,3485,20,8364,1922.61
+ORD0062,23-07-2024,Customer_457,East,Home Decor,Carpet,4,3289,0,13156,3182.06
+ORD0063,24-09-2023,Customer_611,North,Home Decor,Carpet,1,2978,5,2829.1,424.96
+ORD0064,15-02-2023,Customer_991,North,Home Decor,Curtain,5,4794,5,22771.5,2817.65
+ORD0065,19-05-2024,Customer_364,West,Home Decor,Curtain,4,4607,5,17506.6,1531.33
+ORD0066,01-02-2024,Customer_880,West,Sports,Tennis Racket,2,4519,15,7682.3,1377.89
+ORD0067,04-03-2023,Customer_613,South,Home Decor,Curtain,3,2203,15,5617.65,693.36
+ORD0068,01-07-2024,Customer_975,West,Clothing,Jeans,4,4672,10,16819.2,1112.44
+ORD0069,19-03-2024,Customer_957,West,Sports,Football,1,1387,20,1109.6,218.63
+ORD0070,04-06-2024,Customer_544,North,Clothing,Jeans,4,2423,20,7753.6,1186.52
+ORD0071,12-08-2023,Customer_415,West,Home Decor,Sofa,4,2334,20,7468.8,564.33
+ORD0072,06-10-2023,Customer_171,West,Sports,Yoga Mat,4,2835,20,9072,593.11
+ORD0073,19-08-2024,Customer_748,North,Books,Comics,2,2581,20,4129.6,315.27
+ORD0074,21-07-2023,Customer_477,South,Sports,Football,5,1313,15,5580.25,1252.74
+ORD0075,21-09-2023,Customer_392,North,Clothing,Jacket,2,4689,20,7502.4,756.69
+ORD0076,01-03-2024,Customer_532,West,Home Decor,Sofa,4,823,10,2962.8,304.3
+ORD0077,18-10-2023,Customer_800,South,Books,Comics,2,4487,20,7179.2,901.93
+ORD0078,18-08-2023,Customer_529,West,Clothing,Dress,2,1582,10,2847.6,224.06
+ORD0079,02-07-2023,Customer_811,East,Clothing,Dress,1,514,15,436.9,33.29
+ORD0080,09-03-2023,Customer_710,South,Home Decor,Carpet,1,2880,0,2880,461.04
+ORD0081,27-05-2024,Customer_338,North,Home Decor,Carpet,5,2503,5,11889.25,1765.03
+ORD0082,25-11-2023,Customer_869,South,Home Decor,Lamp,3,2482,10,6701.4,870.88
+ORD0083,16-06-2024,Customer_485,East,Sports,Tennis Racket,1,4808,10,4327.2,1038.25
+ORD0084,26-07-2023,Customer_545,East,Clothing,Shirt,4,2151,15,7313.4,1313.94
+ORD0085,07-05-2023,Customer_599,West,Books,Novel,3,4312,0,12936,2537.07
+ORD0086,14-03-2023,Customer_642,North,Sports,Cricket Bat,2,2030,20,3248,239.27
+ORD0087,25-03-2023,Customer_347,West,Books,Novel,1,4701,0,4701,1118.89
+ORD0088,26-03-2024,Customer_879,West,Clothing,Dress,5,2996,10,13482,963.23
+ORD0089,07-02-2023,Customer_274,West,Books,Comics,5,2703,15,11487.75,2606.38
+ORD0090,31-03-2023,Customer_455,North,Home Decor,Carpet,5,1131,0,5655,505.86
+ORD0091,04-12-2023,Customer_803,North,Sports,Yoga Mat,5,826,20,3304,591.48
+ORD0092,29-05-2023,Customer_523,South,Home Decor,Sofa,4,4269,0,17076,3118.78
+ORD0093,05-04-2024,Customer_175,West,Sports,Tennis Racket,3,1405,15,3582.75,632.99
+ORD0094,07-01-2023,Customer_668,South,Home Decor,Carpet,3,3139,5,8946.15,845.5
+ORD0095,12-02-2024,Customer_468,East,Electronics,Smartphone,4,3269,0,13076,715.5
+ORD0096,26-04-2023,Customer_763,North,Electronics,Headphones,5,4691,20,18764,1528.83
+ORD0097,28-03-2023,Customer_977,East,Electronics,Headphones,5,4884,5,23199,4665.06
+ORD0098,21-02-2024,Customer_673,West,Home Decor,Curtain,4,3608,5,13710.4,3229.16
+ORD0099,29-04-2024,Customer_706,South,Home Decor,Carpet,3,3136,5,8937.6,2140
+ORD0100,04-02-2024,Customer_151,West,Electronics,Smartphone,5,1647,20,6588,999.65
+ORD0101,06-05-2024,Customer_783,South,Sports,Cricket Bat,5,4016,15,17068,3534.45
+ORD0102,26-08-2023,Customer_699,East,Clothing,Shirt,1,3658,20,2926.4,387.58
+ORD0103,15-02-2024,Customer_616,South,Electronics,Headphones,1,3437,20,2749.6,241.63
+ORD0104,16-07-2024,Customer_646,West,Home Decor,Carpet,1,2527,5,2400.65,148.32
+ORD0105,08-06-2024,Customer_536,West,Clothing,Jacket,5,560,10,2520,503.69
+ORD0106,02-03-2023,Customer_658,North,Sports,Cricket Bat,2,4112,20,6579.2,1558.75
+ORD0107,17-11-2023,Customer_937,North,Books,Novel,3,775,0,2325,351.26
+ORD0108,18-04-2023,Customer_499,East,Home Decor,Curtain,1,4855,10,4369.5,584.96
+ORD0109,10-07-2023,Customer_165,South,Home Decor,Lamp,3,4440,5,12654,2229.6
+ORD0110,25-06-2023,Customer_682,North,Home Decor,Curtain,2,2294,5,4358.6,598.83
+ORD0111,20-02-2023,Customer_849,East,Sports,Tennis Racket,3,1815,15,4628.25,837.24
+ORD0112,25-07-2024,Customer_715,East,Electronics,Laptop,5,4612,15,19601,4291.42
+ORD0113,23-02-2024,Customer_797,South,Electronics,Smartphone,3,3874,10,10459.8,2528.15
+ORD0114,03-05-2023,Customer_110,North,Home Decor,Curtain,2,2438,5,4632.2,253.57
+ORD0115,27-07-2023,Customer_958,North,Books,Novel,3,2770,5,7894.5,611
+ORD0116,10-02-2023,Customer_247,East,Books,Textbook,5,1279,5,6075.25,751.14
+ORD0117,19-08-2024,Customer_822,East,Electronics,Headphones,3,2483,5,7076.55,963.39
+ORD0118,02-11-2023,Customer_202,East,Home Decor,Sofa,4,1617,20,5174.4,468.86
+ORD0119,21-07-2023,Customer_607,South,Books,Magazine,5,2471,0,12355,738.73
+ORD0120,17-04-2024,Customer_315,East,Sports,Football,1,2839,20,2271.2,441.27
+ORD0121,04-05-2024,Customer_530,South,Books,Textbook,4,3534,5,13429.2,2002.22
+ORD0122,11-02-2023,Customer_276,South,Sports,Cricket Bat,2,4174,5,7930.6,1850.31
+ORD0123,03-11-2023,Customer_863,North,Home Decor,Sofa,2,2189,0,4378,387.88
+ORD0124,08-04-2024,Customer_742,South,Books,Magazine,2,1521,15,2585.7,202.54
+ORD0125,02-01-2024,Customer_540,North,Sports,Tennis Racket,3,4808,10,12981.6,1832.9
+ORD0126,30-07-2024,Customer_417,South,Electronics,Tablet,1,1397,20,1117.6,180.18
+ORD0127,21-11-2023,Customer_951,East,Electronics,Laptop,3,3882,5,11063.7,557.31
+ORD0128,09-10-2023,Customer_389,West,Electronics,Tablet,2,3365,15,5720.5,1299
+ORD0129,11-06-2023,Customer_346,North,Home Decor,Carpet,2,4416,5,8390.4,936.19
+ORD0130,22-03-2024,Customer_384,West,Sports,Football,2,4186,0,8372,1097.16
+ORD0131,14-12-2023,Customer_190,North,Books,Magazine,1,2981,15,2533.85,216.03
+ORD0132,11-03-2024,Customer_434,North,Books,Comics,2,4151,20,6641.6,635.78
+ORD0133,08-05-2023,Customer_159,East,Books,Magazine,5,3103,15,13187.75,2901.45
+ORD0134,02-02-2023,Customer_271,North,Clothing,Jeans,1,4722,10,4249.8,574.43
+ORD0135,29-04-2024,Customer_854,West,Sports,Tennis Racket,5,2240,15,9520,2298.53
+ORD0136,23-05-2024,Customer_541,West,Books,Textbook,3,4255,0,12765,1173.41
+ORD0137,05-08-2024,Customer_494,West,Clothing,Jeans,5,1463,10,6583.5,947.85
+ORD0138,31-10-2023,Customer_678,North,Sports,Football,2,3204,20,5126.4,501.38
+ORD0139,29-04-2023,Customer_871,North,Books,Magazine,2,4547,10,8184.6,958.43
+ORD0140,01-07-2023,Customer_919,East,Books,Comics,4,3143,20,10057.6,2290.38
+ORD0141,15-07-2024,Customer_495,North,Electronics,Headphones,3,4747,20,11392.8,1078.27
+ORD0142,28-06-2023,Customer_408,East,Clothing,Shirt,2,577,10,1038.6,150.74
+ORD0143,16-12-2023,Customer_264,South,Sports,Tennis Racket,2,3613,5,6864.7,1135.35
+ORD0144,25-01-2024,Customer_967,South,Clothing,Jacket,1,2694,15,2289.9,229.75
+ORD0145,10-05-2023,Customer_620,South,Home Decor,Lamp,1,3104,0,3104,183.42
+ORD0146,11-05-2023,Customer_581,South,Books,Textbook,4,2613,10,9406.8,914.84
+ORD0147,16-05-2024,Customer_919,South,Books,Magazine,2,881,5,1673.9,318.46
+ORD0148,29-12-2023,Customer_916,South,Books,Novel,2,3509,0,7018,979.12
+ORD0149,21-04-2024,Customer_291,South,Electronics,Tablet,2,1548,10,2786.4,450.12
+ORD0150,08-04-2023,Customer_967,South,Electronics,Laptop,2,4387,5,8335.3,1277.66
+ORD0151,16-08-2024,Customer_290,West,Electronics,Laptop,2,1887,20,3019.2,604.88
+ORD0152,08-04-2023,Customer_965,North,Books,Novel,4,4091,15,13909.4,2617.22
+ORD0153,30-10-2023,Customer_809,South,Home Decor,Curtain,5,3215,10,14467.5,1481.13
+ORD0154,14-12-2023,Customer_337,West,Electronics,Smartphone,5,3235,20,12940,1250.72
+ORD0155,24-04-2024,Customer_287,South,Electronics,Tablet,4,837,15,2845.8,451.08
+ORD0156,04-08-2024,Customer_499,West,Sports,Cricket Bat,3,2693,0,8079,1550.05
+ORD0157,02-01-2024,Customer_339,North,Clothing,Dress,3,2346,15,5982.3,548.47
+ORD0158,03-03-2024,Customer_299,East,Home Decor,Curtain,2,2380,20,3808,674.68
+ORD0159,03-07-2024,Customer_638,South,Electronics,Tablet,3,1250,10,3375,698.08
+ORD0160,24-04-2023,Customer_618,North,Books,Textbook,2,2844,10,5119.2,810.4
+ORD0161,18-12-2023,Customer_946,West,Books,Novel,4,2573,15,8748.2,595.12
+ORD0162,07-10-2023,Customer_414,East,Home Decor,Lamp,1,1857,0,1857,206.67
+ORD0163,01-08-2024,Customer_730,North,Home Decor,Lamp,1,2237,5,2125.15,517.71
+ORD0164,10-02-2023,Customer_480,North,Clothing,Jacket,2,659,0,1318,98.7
+ORD0165,27-07-2023,Customer_630,East,Clothing,Jacket,5,3569,0,17845,3990.58
+ORD0166,29-02-2024,Customer_761,West,Home Decor,Curtain,2,1696,15,2883.2,568.11
+ORD0167,15-05-2023,Customer_807,South,Clothing,Jacket,1,1120,10,1008,94.55
+ORD0168,08-04-2024,Customer_986,North,Sports,Tennis Racket,3,3849,5,10969.65,2671.36
+ORD0169,16-01-2024,Customer_822,North,Clothing,Jacket,1,921,10,828.9,149.1
+ORD0170,02-05-2023,Customer_823,West,Home Decor,Curtain,1,3063,15,2603.55,535.06
+ORD0171,20-08-2024,Customer_833,South,Sports,Cricket Bat,5,2825,15,12006.25,2044.45
+ORD0172,19-07-2024,Customer_752,East,Home Decor,Lamp,2,619,15,1052.3,257.72
+ORD0173,01-07-2024,Customer_264,West,Home Decor,Sofa,3,521,15,1328.55,127.9
+ORD0174,27-04-2024,Customer_243,South,Clothing,Dress,4,4280,15,14552,1064.06
+ORD0175,29-05-2024,Customer_871,North,Books,Magazine,2,3873,5,7358.7,1697.91
+ORD0176,12-09-2023,Customer_152,North,Home Decor,Lamp,2,2414,10,4345.2,987.15
+ORD0177,27-08-2023,Customer_988,East,Books,Textbook,4,4824,0,19296,1427.49
+ORD0178,14-03-2024,Customer_973,North,Sports,Yoga Mat,3,979,15,2496.45,484.87
+ORD0179,11-04-2023,Customer_457,East,Clothing,Jeans,3,1282,0,3846,225.88
+ORD0180,15-06-2023,Customer_339,East,Electronics,Smartphone,1,787,15,668.95,53.45
+ORD0181,18-03-2023,Customer_378,West,Clothing,Dress,4,4694,10,16898.4,1007.13
+ORD0182,16-11-2023,Customer_266,South,Books,Magazine,4,4367,15,14847.8,3094.82
+ORD0183,20-01-2024,Customer_448,East,Clothing,Jeans,4,2125,0,8500,1659.55
+ORD0184,18-05-2024,Customer_713,South,Electronics,Laptop,4,944,15,3209.6,435.98
+ORD0185,16-04-2024,Customer_629,West,Sports,Yoga Mat,2,3624,15,6160.8,1391.45
+ORD0186,26-01-2024,Customer_379,North,Home Decor,Sofa,2,1359,5,2582.1,593.64
+ORD0187,21-05-2024,Customer_727,South,Books,Comics,1,1386,0,1386,132.82
+ORD0188,08-03-2023,Customer_884,North,Home Decor,Sofa,3,1994,5,5682.9,631.53
+ORD0189,19-04-2024,Customer_134,East,Home Decor,Lamp,3,615,0,1845,152.27
+ORD0190,16-08-2024,Customer_541,South,Sports,Football,4,548,15,1863.2,378.88
+ORD0191,20-03-2024,Customer_198,West,Books,Comics,4,4345,10,15642,2013.28
+ORD0192,29-08-2023,Customer_350,South,Clothing,Jeans,4,2132,0,8528,1692.63
+ORD0193,17-06-2023,Customer_369,North,Electronics,Laptop,3,3764,5,10727.4,1960.95
+ORD0194,29-07-2023,Customer_861,West,Books,Textbook,2,1920,0,3840,533.72
+ORD0195,07-02-2024,Customer_669,North,Home Decor,Curtain,2,4448,0,8896,1810.53
+ORD0196,08-03-2023,Customer_470,East,Books,Novel,1,1207,0,1207,118.5
+ORD0197,02-08-2024,Customer_233,North,Home Decor,Sofa,2,3699,15,6288.3,926.96
+ORD0198,08-06-2024,Customer_625,East,Books,Textbook,1,1251,10,1125.9,91.49
+ORD0199,14-02-2023,Customer_553,East,Home Decor,Carpet,3,1572,10,4244.4,507.33
+ORD0200,07-01-2023,Customer_847,North,Books,Comics,1,1978,5,1879.1,171.96
+ORD0201,26-06-2024,Customer_873,East,Home Decor,Curtain,3,2153,5,6136.05,668.97
+ORD0202,26-01-2024,Customer_914,North,Books,Novel,3,3676,10,9925.2,985.98
+ORD0203,03-02-2023,Customer_839,North,Electronics,Smartphone,2,2967,5,5637.3,587.33
+ORD0204,23-04-2023,Customer_726,West,Electronics,Tablet,2,3002,20,4803.2,577.39
+ORD0205,21-04-2024,Customer_595,East,Clothing,Dress,2,4334,5,8234.6,1343.31
+ORD0206,11-03-2023,Customer_830,South,Sports,Tennis Racket,3,1242,20,2980.8,400.51
+ORD0207,02-07-2024,Customer_181,East,Home Decor,Sofa,5,712,5,3382,560.09
+ORD0208,08-01-2024,Customer_727,North,Sports,Football,1,2404,10,2163.6,327.28
+ORD0209,28-05-2024,Customer_866,South,Electronics,Headphones,5,3762,15,15988.5,2979.81
+ORD0210,15-12-2023,Customer_427,West,Clothing,Shirt,2,4228,10,7610.4,481.77
+ORD0211,13-08-2023,Customer_876,North,Home Decor,Sofa,3,1551,20,3722.4,607.02
+ORD0212,19-01-2023,Customer_208,South,Clothing,Dress,1,2268,20,1814.4,343.63
+ORD0213,04-08-2023,Customer_737,North,Sports,Yoga Mat,5,3169,10,14260.5,1457.51
+ORD0214,29-06-2024,Customer_576,South,Electronics,Headphones,4,1783,20,5705.6,358.93
+ORD0215,20-04-2024,Customer_403,West,Clothing,Dress,2,4701,0,9402,1787.37
+ORD0216,08-01-2023,Customer_754,North,Clothing,Dress,1,1989,10,1790.1,120.03
+ORD0217,10-04-2024,Customer_708,South,Clothing,Jacket,5,4897,5,23260.75,4580.26
+ORD0218,05-08-2023,Customer_210,East,Sports,Football,1,2753,5,2615.35,507.55
+ORD0219,30-05-2023,Customer_878,East,Books,Magazine,4,4059,15,13800.6,2616.92
+ORD0220,13-10-2023,Customer_190,North,Electronics,Laptop,1,3386,0,3386,469.4
+ORD0221,26-07-2023,Customer_166,South,Home Decor,Sofa,2,3037,10,5466.6,592.36
+ORD0222,12-07-2024,Customer_166,North,Electronics,Tablet,3,3139,15,8004.45,1388.87
+ORD0223,22-12-2023,Customer_872,West,Home Decor,Carpet,5,4219,15,17930.75,923
+ORD0224,12-10-2023,Customer_546,West,Clothing,Jeans,4,4648,10,16732.8,1787.2
+ORD0225,22-11-2023,Customer_831,South,Clothing,Dress,5,4513,20,18052,3587.88
+ORD0226,21-08-2023,Customer_300,East,Home Decor,Sofa,1,4170,0,4170,258.04
+ORD0227,18-03-2023,Customer_811,North,Books,Comics,5,1651,5,7842.25,682.93
+ORD0228,25-03-2023,Customer_401,East,Clothing,Jeans,4,2707,10,9745.2,1757.42
+ORD0229,21-01-2024,Customer_929,South,Clothing,Shirt,3,4751,15,12115.05,1947.6
+ORD0230,10-04-2024,Customer_368,West,Books,Novel,4,1952,5,7417.6,1704.98
+ORD0231,19-12-2023,Customer_510,South,Electronics,Headphones,2,2657,0,5314,1152.88
+ORD0232,14-02-2024,Customer_176,West,Sports,Yoga Mat,1,4383,20,3506.4,383.68
+ORD0233,11-06-2024,Customer_145,West,Electronics,Laptop,4,2630,0,10520,1096.54
+ORD0234,25-05-2024,Customer_998,North,Electronics,Smartphone,5,2400,5,11400,1613.24
+ORD0235,26-04-2023,Customer_933,West,Clothing,Dress,5,4785,15,20336.25,3919.14
+ORD0236,15-08-2023,Customer_827,East,Clothing,Jeans,3,4499,0,13497,1173.5
+ORD0237,14-04-2024,Customer_171,North,Books,Textbook,5,3537,20,14148,2086.01
+ORD0238,19-10-2023,Customer_622,East,Clothing,Shirt,1,2840,20,2272,459.66
+ORD0239,16-10-2023,Customer_813,East,Home Decor,Sofa,5,3070,15,13047.5,2045.72
+ORD0240,28-05-2024,Customer_143,West,Electronics,Tablet,2,1946,5,3697.4,431.46
+ORD0241,04-10-2023,Customer_596,North,Clothing,Dress,3,3829,20,9189.6,828.84
+ORD0242,11-04-2024,Customer_321,North,Sports,Yoga Mat,1,2070,15,1759.5,139.76
+ORD0243,30-06-2024,Customer_848,East,Books,Comics,1,4368,15,3712.8,336.31
+ORD0244,30-03-2024,Customer_190,South,Electronics,Smartphone,2,2393,15,4068.1,880.76
+ORD0245,15-02-2023,Customer_927,North,Clothing,Dress,4,1190,0,4760,543.4
+ORD0246,17-12-2023,Customer_689,South,Clothing,Shirt,3,4961,5,14138.85,3270.32
+ORD0247,27-09-2023,Customer_549,North,Books,Comics,5,769,20,3076,363.45
+ORD0248,01-10-2023,Customer_791,South,Books,Magazine,3,2937,10,7929.9,1425.68
+ORD0249,05-02-2024,Customer_748,West,Electronics,Laptop,1,1111,20,888.8,181.06
+ORD0250,15-05-2024,Customer_458,South,Clothing,Dress,2,2310,0,4620,538.88
+ORD0251,11-05-2023,Customer_439,East,Books,Novel,3,2104,0,6312,1443.41
+ORD0252,05-01-2023,Customer_111,North,Electronics,Headphones,1,3640,10,3276,249.76
+ORD0253,14-01-2023,Customer_327,East,Sports,Tennis Racket,4,2388,20,7641.6,1608.99
+ORD0254,29-01-2023,Customer_909,West,Books,Textbook,2,1305,15,2218.5,146.05
+ORD0255,27-01-2024,Customer_170,East,Books,Magazine,4,2408,10,8668.8,1948.62
+ORD0256,24-08-2023,Customer_222,South,Sports,Cricket Bat,2,1180,5,2242,269.45
+ORD0257,13-02-2023,Customer_353,North,Electronics,Smartphone,3,743,10,2006.1,403.21
+ORD0258,19-03-2023,Customer_538,North,Electronics,Smartphone,4,1588,0,6352,615.95
+ORD0259,14-08-2024,Customer_597,East,Clothing,Jeans,2,4284,10,7711.2,722.01
+ORD0260,03-04-2024,Customer_759,South,Electronics,Tablet,5,2266,10,10197,1503.5
+ORD0261,31-01-2024,Customer_262,North,Clothing,Dress,1,1100,20,880,62.65
+ORD0262,19-08-2023,Customer_167,East,Clothing,Dress,1,2812,15,2390.2,501.18
+ORD0263,09-12-2023,Customer_343,East,Electronics,Laptop,4,2787,20,8918.4,1623.23
+ORD0264,26-06-2023,Customer_830,West,Books,Comics,1,4791,0,4791,858.93
+ORD0265,08-02-2024,Customer_452,East,Sports,Yoga Mat,5,2797,10,12586.5,1505.35
+ORD0266,28-01-2023,Customer_128,West,Clothing,Shirt,3,2813,20,6751.2,1247.38
+ORD0267,11-05-2023,Customer_747,North,Home Decor,Carpet,1,741,5,703.95,174.07
+ORD0268,18-04-2023,Customer_498,East,Clothing,Jeans,1,1199,5,1139.05,259.37
+ORD0269,16-11-2023,Customer_208,East,Books,Textbook,3,4059,15,10350.45,932.74
+ORD0270,27-11-2023,Customer_993,North,Sports,Yoga Mat,5,2462,0,12310,1991.18
+ORD0271,13-05-2023,Customer_598,South,Sports,Cricket Bat,2,3157,20,5051.2,835.11
+ORD0272,22-05-2024,Customer_653,East,Sports,Cricket Bat,5,2139,5,10160.25,2372.94
+ORD0273,04-06-2023,Customer_415,North,Sports,Yoga Mat,5,877,0,4385,469.92
+ORD0274,11-01-2023,Customer_991,South,Sports,Cricket Bat,1,2083,10,1874.7,307.62
+ORD0275,11-06-2024,Customer_726,North,Clothing,Jacket,1,2789,10,2510.1,144.92
+ORD0276,29-04-2024,Customer_302,North,Home Decor,Carpet,5,1651,15,7016.75,1264.35
+ORD0277,24-03-2023,Customer_932,South,Electronics,Headphones,3,4835,15,12329.25,2635.96
+ORD0278,02-04-2024,Customer_748,East,Clothing,Jeans,4,3995,0,15980,3949.47
+ORD0279,06-09-2023,Customer_662,South,Books,Novel,2,2676,15,4549.2,338.76
+ORD0280,08-02-2023,Customer_434,South,Electronics,Laptop,1,3610,0,3610,469.58
+ORD0281,23-06-2024,Customer_663,North,Sports,Football,5,2482,20,9928,1979.44
+ORD0282,12-11-2023,Customer_654,East,Sports,Tennis Racket,4,4103,0,16412,3087.72
+ORD0283,15-01-2023,Customer_639,West,Clothing,Jacket,5,2894,15,12299.5,3025.82
+ORD0284,02-02-2023,Customer_620,North,Books,Comics,1,546,15,464.1,86.86
+ORD0285,18-06-2023,Customer_690,North,Home Decor,Curtain,2,1529,10,2752.2,537.29
+ORD0286,02-04-2024,Customer_112,East,Electronics,Laptop,2,3731,0,7462,1753.48
+ORD0287,15-03-2023,Customer_896,East,Clothing,Dress,1,3392,5,3222.4,174.01
+ORD0288,06-06-2023,Customer_457,South,Books,Novel,4,4432,15,15068.8,830.98
+ORD0289,18-03-2023,Customer_444,South,Electronics,Laptop,5,2369,20,9476,1798.29
+ORD0290,25-04-2023,Customer_654,North,Clothing,Dress,3,3660,20,8784,1638.21
+ORD0291,24-01-2023,Customer_447,South,Clothing,Jacket,2,1452,0,2904,551.52
+ORD0292,02-08-2023,Customer_741,West,Home Decor,Curtain,5,2609,15,11088.25,1410.29
+ORD0293,10-01-2024,Customer_185,South,Home Decor,Curtain,1,4699,20,3759.2,767.06
+ORD0294,24-08-2023,Customer_202,East,Clothing,Jeans,2,2882,20,4611.2,857.4
+ORD0295,06-05-2023,Customer_864,North,Sports,Yoga Mat,3,3872,20,9292.8,1582.49
+ORD0296,13-04-2023,Customer_306,North,Clothing,Jacket,5,2170,15,9222.5,1294.51
+ORD0297,16-12-2023,Customer_700,South,Books,Textbook,4,820,15,2788,561.9
+ORD0298,16-06-2024,Customer_544,East,Sports,Football,5,1369,20,5476,987.02
+ORD0299,16-10-2023,Customer_940,South,Clothing,Jacket,5,1720,15,7310,1644.15
+ORD0300,28-08-2023,Customer_908,East,Home Decor,Lamp,3,2904,5,8276.4,1182.21
